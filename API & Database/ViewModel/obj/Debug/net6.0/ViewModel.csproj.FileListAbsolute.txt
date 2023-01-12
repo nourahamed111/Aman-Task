@@ -1,0 +1,21 @@
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\bin\Debug\net6.0\ViewModel.deps.json
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\bin\Debug\net6.0\ViewModel.dll
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\bin\Debug\net6.0\ViewModel.pdb
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.csproj.AssemblyReference.cache
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.AssemblyInfoInputs.cache
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.AssemblyInfo.cs
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.dll
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\obj\Debug\net6.0\refint\ViewModel.dll
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.pdb
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\obj\Debug\net6.0\ref\ViewModel.dll
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\bin\Debug\net6.0\Entities.dll
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\bin\Debug\net6.0\Entities.pdb
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.csproj.CopyComplete
+C:\Users\Omer\Downloads\Aman-Task-main\Aman-Task-main\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.dll
+C:\Users\Omer\Downloads\Aman-Task-main\Aman-Task-main\API & Database\ViewModel\obj\Debug\net6.0\refint\ViewModel.dll
+C:\Users\Omer\Downloads\Aman-Task-main\Aman-Task-main\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.pdb
+C:\Users\Omer\OneDrive\Desktop\Aman-Task-main\Aman-Task\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.dll
+C:\Users\Omer\OneDrive\Desktop\Aman-Task-main\Aman-Task\API & Database\ViewModel\obj\Debug\net6.0\refint\ViewModel.dll
+C:\Users\Omer\OneDrive\Desktop\Aman-Task-main\Aman-Task\API & Database\ViewModel\obj\Debug\net6.0\ViewModel.pdb

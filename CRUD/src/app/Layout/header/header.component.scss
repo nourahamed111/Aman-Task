@@ -1,0 +1,54 @@
+.headerImg{
+    width: 150px;
+    height: 100px;
+}
+
+
+li{
+    
+    display: inline-block;
+    color: lightgray;
+    padding: 10px;
+    font-size: larger;   
+}
+ a{
+    color:rgb(165, 135, 100);
+    font-family: cursive;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: black
+    
+}
+.btnSearch{
+    background-color: white;
+    width: 60px;
+  color: black;
+  border: 2px solid rgb(165, 135, 100);
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  padding: 10px;
+  
+
+}
+.btnSearch:hover{
+    background-color: rgb(165, 135, 100); /* Green */
+  color: white;
+}
+.search{
+    border: 2px solid rgb(165, 135, 100);
+  border-radius: 10px;
+  text-align: center;
+    width: 150px;
+    height: 50px;
+}
+.h2{
+    color:rgb(165, 135, 100);
+    text-decoration: none;
+    font-size: x-large;
+}
+

@@ -1,0 +1,40 @@
+<div class="container">
+  <div>
+    <h2 class="py-3">Our Employees</h2>
+    <button class="btnCreate" (click)="Create()">Create</button>
+  </div>
+  <div class="Emp-Details py-5">
+    <table class="table table-striped table-bordered">
+      <thead class="thead-dark">
+        <tr>
+          <th scope="col">No</th>
+          <th scope="col">First Name</th>
+          <th scope="col">Last Name</th>
+          <th scope="col">Title</th>
+          <th scope="col">Address</th>
+          <th scope="col">Department ID</th>
+          <th scope="col">Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of Employees; let i = index">
+          <th scope="row">{{ i + 1 }}</th>
+          <td>{{ item.fname }}</td>
+          <td>{{ item.lname }}</td>
+          <td>{{ item.title }}</td>
+          <td>{{ item.address }}</td>
+          <td>{{ item.deptId }}</td>
+          <td>
+            <button  (click)="Update(item.id)">
+              Update
+            </button>
+            |
+            <button (click)="Delete(item.id)">
+              Delete
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

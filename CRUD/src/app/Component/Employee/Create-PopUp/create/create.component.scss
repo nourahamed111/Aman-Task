@@ -1,0 +1,30 @@
+button{
+       background-color: white;
+  color: rgb(110, 102, 98);
+  border: 2px solid rgb(165, 135, 100);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  padding: 10px;
+  margin: 10px;
+     border: 1px solid rgb(165, 135, 100);
+    border-radius: 15px;
+}
+button:hover{
+    background-color: rgb(165, 135, 100); /* Green */
+  color: white;
+}
+label ,h1{
+     color: rgb(165, 135, 100);
+    }
+    input{
+        
+        margin: 2%;
+        border-color: aliceblue;
+    }
+    input:hover{
+         background-color: rgb(154, 150, 146);
+         border-color: aliceblue;
+    }

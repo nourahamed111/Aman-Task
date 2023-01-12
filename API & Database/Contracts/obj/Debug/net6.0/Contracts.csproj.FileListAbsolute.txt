@@ -1,0 +1,21 @@
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\HAMZAWY\Desktop\Assisment Aman\API & Database\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\Omer\Downloads\Aman-Task-main\Aman-Task-main\API & Database\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\Omer\Downloads\Aman-Task-main\Aman-Task-main\API & Database\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\Omer\Downloads\Aman-Task-main\Aman-Task-main\API & Database\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\Omer\OneDrive\Desktop\Aman-Task-main\Aman-Task\API & Database\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\Omer\OneDrive\Desktop\Aman-Task-main\Aman-Task\API & Database\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\Omer\OneDrive\Desktop\Aman-Task-main\Aman-Task\API & Database\Contracts\obj\Debug\net6.0\Contracts.pdb
